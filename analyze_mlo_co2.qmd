@@ -10,7 +10,7 @@ execute:
 
 ## Analysis of CO2 at Maunaloa over time 
 
-This analysis will look at the concentration of CO2 at Maunaloa Observatory over time
+This analysis will look at the concentration of CO2 at **Maunaloa Observatory** over time
 
 ```{r}
 #| label: load-packages-and-data
@@ -40,3 +40,4 @@ mlo_data %>%
 ```
 
 The concentration of carbon dioxide goes up strongly over time from the first measurements in the late 1950s. It also shows a jigsaw pattern from the Northern Hemisphere deciduous leaf changes over the course of the year.
+
